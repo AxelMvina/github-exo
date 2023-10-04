@@ -1,0 +1,12 @@
+h1 {
+    font-size: 50px;
+}
+
+#mon-titre{
+    /* background: magenta; */
+    background-color: green;
+}
+
+.red {
+    color: red;
+}
